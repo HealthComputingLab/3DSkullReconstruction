@@ -38,7 +38,7 @@ conda activate skull
 conda install -n skull -c conda-forge vtk numpy plotly -y
 ```
 
-Alternative (pip inside activated env — you mentioned using pip):
+Alternative (pip inside activated env):
 
 ```powershell
 pip install vtk
